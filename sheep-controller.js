@@ -40,7 +40,7 @@ export class SheepController {
                 this.addSheep();
             }
 
-            for (let i = this.items.length -1; i>=0; i--) {
+            for (let i = this.items.length -1; i >= 0; i--) {
                 const item = this.items[i];
                 if (item.x < -item.width) {
                     this.items.splice (i,1);
