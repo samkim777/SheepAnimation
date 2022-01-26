@@ -109,3 +109,4 @@ export class Sheep {
         return 2 * (1-t) * (b-a ) + 2 * (c-b) * t;
     }
 }
+//
