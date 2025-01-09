@@ -8,7 +8,7 @@ import {
 
  import {
     Sun
- } from './sun.js';
+ } from './Sun.js';
 
 
 
