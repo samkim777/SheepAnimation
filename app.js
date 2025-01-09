@@ -7,7 +7,7 @@ import {
  from './sheep-controller.js';
 
  import {
-     Sun
+    Sun
  } from './Sun.js';
 
 
